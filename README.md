@@ -1,7 +1,9 @@
 # 🔒 Web Application Security Scanner
 
 A comprehensive, automated security scanner that identifies vulnerabilities in web applications. Built for security professionals, penetration testers, and developers who want to proactively identify and fix security issues.
-
+<img width="1920" height="1080" alt="Screenshot_2025-10-06_23-57-36" src="https://github.com/user-attachments/assets/db846001-27ed-4f57-bfc0-d9547ad5f940" />
+<img width="1920" height="1080" alt="Screenshot_2025-10-06_23-58-32" src="https://github.com/user-attachments/assets/805a855a-d746-4aed-a2da-bd9be2a68780" />
+<img width="1920" height="1080" alt="Screenshot_2025-10-06_23-58-05" src="https://github.com/user-attachments/assets/eaf57bda-a566-4ca7-aa17-14576c8fabda" />
 
 **Live Demo:** [https://ics01.netlify.app/](https://ics01.netlify.app/)
 
